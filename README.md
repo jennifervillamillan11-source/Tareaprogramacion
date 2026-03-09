@@ -2,6 +2,8 @@
 
 ## Diagrama de Clases
 
+![Diagrama de clases](diagrama.png)
+
 ```mermaid
 classDiagram
     class Cuenta {
